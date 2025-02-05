@@ -1,0 +1,8 @@
+  WPU RESOLUSI
+-Bisa lancar git dan github
+-Lancar Python
+-Bisa pake MySQL
+-Bisa figma
+-Lancar C++
+-Bisa Java Script
+-Bisa HTML dan Css dasar
