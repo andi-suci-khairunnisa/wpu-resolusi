@@ -6,3 +6,4 @@
 -Lancar C++
 -Bisa Java Script
 -Bisa HTML dan Css dasar
+-Menyelesaikan kursus dari Microsoft
