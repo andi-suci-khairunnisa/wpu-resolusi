@@ -1,8 +1,8 @@
   WPU RESOLUSI
 -Bisa lancar git dan github
--Lancar Python
+-Lancar Python (Belajar buat web dari python dan juga modul-modulnya)
 -Bisa pake MySQL
--Lancar C++
+-Lancar C++ (menamati tlx dan buku di perpus Gowa)
 -Bisa Java Script
 -Bisa HTML dan Css dasar
 -Menyelesaikan kursus dari Microsoft
